@@ -13,3 +13,5 @@ markov3
 5/ change the top right settings (which class/cluster, how many items within that class, input 2 integers, then click out of the box)
 6/ lowering the "decay" slider will add polyphony
 7/ augmenting the "attack" slider will avoid clicks, but also potentially dammage the attacks
+
+https://www.youtube.com/watch?v=p-cIRxFiEDI&list=PLc_WX6wY4JtnwPpysSL2F3C_pfg1xxPXs
