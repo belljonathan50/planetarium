@@ -1,4 +1,4 @@
-download bach, ml.* and flucoma packages
+download bach, ml.* and, most importantly, flucoma packages from the package manager
 
 classification.maxpat
 1/load a sound by clicking on "replace"
