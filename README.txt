@@ -15,3 +15,4 @@ markov3
 7/ augmenting the "attack" slider will avoid clicks, but also potentially dammage the attacks
 
 https://www.youtube.com/watch?v=p-cIRxFiEDI&list=PLc_WX6wY4JtnwPpysSL2F3C_pfg1xxPXs
+https://projector.tensorflow.org/
