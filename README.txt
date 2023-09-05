@@ -40,3 +40,6 @@ audioguide
 https://youtu.be/Sh7LvH39dsY?t=2760
 fasciani
 https://youtu.be/Sh7LvH39dsY?t=3055
+
+article in French: https://hal.science/hal-04182707v1/document
+in English: https://hal.science/hal-04182704v1/document
