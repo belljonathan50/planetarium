@@ -2,15 +2,27 @@
 Rebecca Fiebrink, wekinator
 ml.star mlp - - fluid.mlp regressor (classifier?)
 
-2/ Distances, Dimension reduction
+Deep learning: Ircam rave and nn~ https://youtu.be/o09BSf9zP-0 https://forum.ircam.fr/projects/detail/nn/
+but: do we have access to GPUs? Can we train our own models?
+
+2/ Distances, Dimension reduction - https://projector.tensorflow.org/
 Google's tensorflow (DistBelief) -> croyance distance ;)
 Starting in 2011, Google Brain built DistBelief as a proprietary machine learning system based on deep learning neural networks. 
 Its use grew rapidly across diverse Alphabet companies in both research and commercial applications. 
 Google assigned multiple computer scientists, including Jeff Dean, to simplify and refactor the codebase of DistBelief into a faster, more robust application-grade library, which became TensorFlow. 
-TensorFlow is Google Brain's second-generation system. Version 1.0.0 was released on February 11, 2017.[15] 
+TensorFlow is Google Brain's second-generation system. Version 1.0.0 was released on February 11, 2017.
+
+-> audiostellar
+-> "compositions" with FluCoMa
+https://www.youtube.com/watch?v=p-cIRxFiEDI&list=PLc_WX6wY4JtnwPpysSL2F3C_pfg1xxPXs
+JIM 24: https://www.youtube.com/watch?v=npyfwqN02qE
+JMM-Océane: https://youtu.be/bwOuPVReeAM?t=58
+Pulp fiction https://youtu.be/jQsZT_Tlecs
+https://youtu.be/L-MiKmsIzjM
+https://youtu.be/777fqIIJCY4
 
 3/ Deal with time
-what's missing for building a language model? -> sequential data, predict the next word, note, item...
+With Projector.tensorflow, what's missing for building a language model? -> sequential data, predict the next word, note, item...
 
           Wake Up  Breakfast  Bike   Work   Beach   Bus    Home   Dinner  Sleep
 Wake Up   0.00     0.80       0.10   0.05    0.05    0.00   0.00   0.00    0.00 (= 1)
@@ -26,9 +38,12 @@ Sleep     0.00     0.00       0.00   0.00    0.00    0.00   0.00   0.00    1.00
 see miscellaneous/markov
 ml.star - > markov
 
-COSMIX
+4/ COSMIX
 
-mubu
+5/ IRCAM's mubu (formerly ftm)
+
+6/ FluCoMa
+
 
 CCRMA workshop 
 (thursday)
