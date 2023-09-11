@@ -29,6 +29,8 @@ JMM-Océane: https://youtu.be/bwOuPVReeAM?t=58
 Pulp fiction https://youtu.be/jQsZT_Tlecs
 https://youtu.be/L-MiKmsIzjM
 https://youtu.be/777fqIIJCY4
+Enregistrements Jean-Marc Montera
+https://drive.google.com/drive/folders/1HDzIJZZygDJwc9GX_LeIaVFv5yD6-G3Q
 
 Anciens tuto Music-AI
 https://youtu.be/ByeIyRLnX-w
