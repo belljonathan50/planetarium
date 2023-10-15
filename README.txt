@@ -24,7 +24,7 @@ https://audiostellar.xyz/lang/en/index.html
 
 "compositions" with FluCoMa
 https://www.youtube.com/watch?v=p-cIRxFiEDI&list=PLc_WX6wY4JtnwPpysSL2F3C_pfg1xxPXs
-JIM 24: https://www.youtube.com/watch?v=npyfwqN02qE
+JIM 23: https://www.youtube.com/watch?v=npyfwqN02qE
 JMM-Océane: https://youtu.be/bwOuPVReeAM?t=58
 Pulp fiction https://youtu.be/jQsZT_Tlecs
 https://youtu.be/L-MiKmsIzjM
